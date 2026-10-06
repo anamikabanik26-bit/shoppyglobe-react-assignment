@@ -147,3 +147,11 @@ If you are creating the Git history from scratch, make each commit after the cor
 - Shopping cart management
 - Quantity controls
 - Checkout and responsive UI
+
+## Tech Stack
+- React
+- React Router
+- Redux Toolkit
+- Vite
+- JavaScript
+- CSS
