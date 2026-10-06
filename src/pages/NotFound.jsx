@@ -1,6 +1,8 @@
 import { Link, useRouteError } from 'react-router-dom';
 
 export default function NotFound() {
+  //display a friendly message when the requested page does not exist.
+  
   const error = useRouteError();
 
   return (
