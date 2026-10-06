@@ -191,3 +191,10 @@ Loading indicators are displayed while product data and product details are bein
 
 ## Project Structure
 The project is organized into reusable components, pages, Redux features, custom hooks, routing, and styling files for maintainable React development.
+
+## Usage
+1. Browse products on the home page.
+2. Use search to find products.
+3. Open a product to view details.
+4. Add products to the cart and adjust quantities.
+5. Proceed to checkout to place the order.
