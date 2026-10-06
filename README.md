@@ -170,3 +170,6 @@ Redux is used to manage cart state, including adding products, removing products
 
 ## Routing
 React Router is used for Home, Product Details, Cart, Checkout, and a Not Found page. Product details use a dynamic product ID route.
+
+## Performance Optimization
+The application uses React.lazy and Suspense for code splitting, along with lazy-loaded product images to improve loading performance.
