@@ -8,6 +8,7 @@ import useProducts from '../hooks/useProducts';
 import { selectSearchTerm } from '../features/cart/cartSelectors';
 
 export default function ProductList() {
+  //load products from the API using a custom hook.
   const { products, loading, error } = useProducts();
   const searchTerm = useSelector(selectSearchTerm);
 
