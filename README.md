@@ -179,3 +179,6 @@ The application handles API failures and displays appropriate error messages whi
 
 ## Cart Features
 Users can add products to the cart, increase or decrease quantities, remove items, and proceed to checkout. Quantity cannot go below 1.
+
+## Responsive Design
+The application uses CSS styling and responsive layouts so the product listing, product details, cart, and checkout pages work across different screen sizes.
