@@ -133,3 +133,11 @@ The assignment asks for at least 25 relevant commits. Use small, meaningful comm
 25. update README and final cleanup
 
 If you are creating the Git history from scratch, make each commit after the corresponding feature is completed. Do not make fake/empty commits just to reach 25; the assignment explicitly asks for relevant commits.
+## Project Features
+
+- React based e-commerce application
+- Product listing and product details
+- Shopping cart
+- Search functionality
+- Checkout page
+- Responsive UI
