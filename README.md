@@ -167,3 +167,6 @@ If you are creating the Git history from scratch, make each commit after the cor
 
 ## State Management
 Redux is used to manage cart state, including adding products, removing products, and updating quantities.
+
+## Routing
+React Router is used for Home, Product Details, Cart, Checkout, and a Not Found page. Product details use a dynamic product ID route.
