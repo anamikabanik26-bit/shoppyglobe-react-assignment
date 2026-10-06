@@ -185,3 +185,6 @@ The application uses CSS styling and responsive layouts so the product listing, 
 
 ## Search Feature
 The search bar filters products using Redux state, allowing users to quickly find products by name.
+
+## Loading States
+Loading indicators are displayed while product data and product details are being fetched from the API.
