@@ -8,6 +8,7 @@ import {
 } from '../features/cart/cartSelectors';
 
 export default function Checkout() {
+  //handle the checkout process, including form submission and order confirmation.
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const items = useSelector(selectCartItems);
