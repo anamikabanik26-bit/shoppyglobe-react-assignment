@@ -7,6 +7,7 @@ import {
 } from '../features/cart/cartSelectors';
 
 export default function Cart() {
+  //display the shopping cart with items, total cost, and a link to proceed to checkout.
   const items = useSelector(selectCartItems);
   const total = useSelector(selectCartTotal);
 
