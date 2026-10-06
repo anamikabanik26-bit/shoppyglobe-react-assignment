@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 const PRODUCTS_API = 'https://dummyjson.com/products';
 
 export default function useProducts() {
+  //fetch and manage product data from the API, including loading and error states.
   const [products, setProducts] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
