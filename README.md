@@ -182,3 +182,6 @@ Users can add products to the cart, increase or decrease quantities, remove item
 
 ## Responsive Design
 The application uses CSS styling and responsive layouts so the product listing, product details, cart, and checkout pages work across different screen sizes.
+
+## Search Feature
+The search bar filters products using Redux state, allowing users to quickly find products by name.
