@@ -176,3 +176,6 @@ The application uses React.lazy and Suspense for code splitting, along with lazy
 
 ## Error Handling
 The application handles API failures and displays appropriate error messages while loading product data and product details.
+
+## Cart Features
+Users can add products to the cart, increase or decrease quantities, remove items, and proceed to checkout. Quantity cannot go below 1.
