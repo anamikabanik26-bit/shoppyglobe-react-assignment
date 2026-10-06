@@ -6,6 +6,7 @@ const initialState = {
 };
 
 const cartSlice = createSlice({
+  //manage cart items, quantity, and search term in the Redux store.
   name: 'cart',
   initialState,
   reducers: {
