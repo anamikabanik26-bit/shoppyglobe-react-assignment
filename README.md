@@ -173,3 +173,6 @@ React Router is used for Home, Product Details, Cart, Checkout, and a Not Found 
 
 ## Performance Optimization
 The application uses React.lazy and Suspense for code splitting, along with lazy-loaded product images to improve loading performance.
+
+## Error Handling
+The application handles API failures and displays appropriate error messages while loading product data and product details.
