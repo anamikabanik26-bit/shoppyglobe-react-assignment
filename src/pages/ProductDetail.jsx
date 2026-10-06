@@ -6,6 +6,7 @@ import Loading from '../components/Loading';
 import ErrorMessage from '../components/ErrorMessage';
 
 export default function ProductDetail() {
+  //fetch and display detailed information about a specific product, and handle adding the product to the cart.
   const { id } = useParams();
   const dispatch = useDispatch();
   const [product, setProduct] = useState(null);
