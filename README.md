@@ -160,3 +160,7 @@ If you are creating the Git history from scratch, make each commit after the cor
 1. Run npm install
 2. Run npm run dev
 3. Open the local Vite URL in your browser
+
+## API Endpoints
+- Product list: https://dummyjson.com/products
+- Product details: https://dummyjson.com/products/:id
