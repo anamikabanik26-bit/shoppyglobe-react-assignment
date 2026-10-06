@@ -141,3 +141,9 @@ If you are creating the Git history from scratch, make each commit after the cor
 - Search functionality
 - Checkout page
 - Responsive UI
+## Features
+- Product browsing and search
+- Product details
+- Shopping cart management
+- Quantity controls
+- Checkout and responsive UI
