@@ -188,3 +188,6 @@ The search bar filters products using Redux state, allowing users to quickly fin
 
 ## Loading States
 Loading indicators are displayed while product data and product details are being fetched from the API.
+
+## Project Structure
+The project is organized into reusable components, pages, Redux features, custom hooks, routing, and styling files for maintainable React development.
