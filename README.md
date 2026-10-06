@@ -155,3 +155,8 @@ If you are creating the Git history from scratch, make each commit after the cor
 - Vite
 - JavaScript
 - CSS
+
+## Installation
+1. Run npm install
+2. Run npm run dev
+3. Open the local Vite URL in your browser
