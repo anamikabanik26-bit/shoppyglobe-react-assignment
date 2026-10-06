@@ -4,6 +4,7 @@ import { addToCart } from '../features/cart/cartSlice';
 import PropTypes from 'prop-types';
 
 export default function ProductItem({ product }) {
+  //display product information and handle adding the product to the cart.
   const dispatch = useDispatch();
 
   return (
