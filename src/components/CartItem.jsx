@@ -7,6 +7,7 @@ import {
 import PropTypes from 'prop-types';
 
 export default function CartItem({ item }) {
+  //display cart item information and handle quantity changes and removal from the cart.
   const dispatch = useDispatch();
 
   return (
