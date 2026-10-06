@@ -164,3 +164,6 @@ If you are creating the Git history from scratch, make each commit after the cor
 ## API Endpoints
 - Product list: https://dummyjson.com/products
 - Product details: https://dummyjson.com/products/:id
+
+## State Management
+Redux is used to manage cart state, including adding products, removing products, and updating quantities.
