@@ -198,3 +198,12 @@ The project is organized into reusable components, pages, Redux features, custom
 3. Open a product to view details.
 4. Add products to the cart and adjust quantities.
 5. Proceed to checkout to place the order.
+
+## Technologies Used
+- React
+- Vite
+- Redux
+- React Router
+- JavaScript
+- CSS
+- DummyJSON API
